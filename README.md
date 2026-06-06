@@ -69,4 +69,4 @@ JavaScript / Axios – API Communication
 
 
 📌 Note
-This system is created for educational purposes only and is intended to demonstrate how a clinic management system works using modern web development tools.
+This system is created for educational purposes only and is intended to demonstrate how a clinic management system works using modern web development tools..... 
