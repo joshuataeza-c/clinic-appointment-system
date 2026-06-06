@@ -52,7 +52,7 @@ Doctor Management System
 Appointment System
 Secure Token-Based Login
 JSON API Responses
-🛠️ Technology Stack
+ Technology Stack
 Laravel – Backend Framework
 MySQL / SQLite – Database
 Sanctum – API Authentication
